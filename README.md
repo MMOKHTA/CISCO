@@ -1,1 +1,1 @@
-# CISCO
+# this is a whole configuration of advance BGP for CCIE level perspective but the sutdent in CCnp they can use it as well
